@@ -1,2 +1,3 @@
-# 10-js-ui-wdio-seed
-Seed project for 10-js-ui-wdio
+bws-testing
+edit
+edit v2.0
